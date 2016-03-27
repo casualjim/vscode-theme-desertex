@@ -1,0 +1,22 @@
+{
+	"name": "theme-desertex",
+	"displayName": "DesertEx",
+	"description": "DesertEx color theme from vim",
+	"version": "0.0.1",
+	"publisher": "casualjim",
+	"engines": {
+		"vscode": "^0.10.1"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "DesertEx",
+				"uiTheme": "vs-dark",
+				"path": "./themes/DesertEx.tmTheme"
+			}
+		]
+	}
+}
