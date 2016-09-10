@@ -2,7 +2,7 @@
     "name": "theme-desertex",
     "displayName": "DesertEx",
     "description": "DesertEx color theme from vim",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "publisher": "casualjim",
     "engines": {
         "vscode": "^0.10.1"
