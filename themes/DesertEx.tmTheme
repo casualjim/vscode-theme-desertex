@@ -573,7 +573,17 @@
 				<string>#DDF2A4</string>
 			</dict>
 		</dict>
-
+		<dict>
+			<key>name</key>
+			<string>html attribute</string>
+			<key>scope</key>
+			<string>entity.other.attribute-name.html</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#EBDB65</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>766026CB-703D-4610-B070-8DE07D967C5F</string>
